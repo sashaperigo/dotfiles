@@ -7,4 +7,6 @@
 2. Copy and paste the code in prompt.sh into your `~/.bash_profile` file and run `source ~/.bash_profile`.
 3. Customize to your heart's content!
 
-[This is a helpful guide to customizing your prompt's color scheme.](https://www.cyberciti.biz/faq/bash-shell-change-the-color-of-my-shell-prompt-under-linux-or-unix/)
+Resources: 
+- [Guide to customizing your prompt's color scheme](https://www.cyberciti.biz/faq/bash-shell-change-the-color-of-my-shell-prompt-under-linux-or-unix/)
+- [List of cute kaomoji](http://japaneseemoticons.me/love-emoticons/)
