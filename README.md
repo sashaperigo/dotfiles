@@ -1,7 +1,7 @@
 # dotfiles
 
 ### Random Kaomoji Bash Prompt
-<img src="http://imgur.com/7xG5euz" width=400 />
+<img src="https://i.imgur.com/7xG5euz.png" width=400 />
 
 1. Make sure you're using the bash shell by running `echo $` in your terminal. If your output is anything other than `-bash` this code won't work.
 2. Copy and paste the code in prompt.sh into your `~/.bash_profile` file and run `source ~/.bash_profile`.
